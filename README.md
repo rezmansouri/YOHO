@@ -21,4 +21,4 @@ This is the architecture of the system:
 You may also download the notebook and the report from this repository.
 
 # Contact
-If there are any questions or recommendations, you can reach out to me at <a href="mailto:itsrezamansouri@gmail.com" target="_blank">itsrezamansouri@gmail.com</a> or <a href="mailto:std_reza_mansouri@khu.ac.ir" target="_blank">std_reza_mansouri@khu.ac.ir</a>.
+If there are any questions or recommendations, you can reach out to me at <a href="mailto:itsrezamansouri@gmail.com" target="_blank">itsrezamansouri@gmail.com</a>.
